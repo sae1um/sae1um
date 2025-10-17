@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hello, I'm Godswill Erhunmwunse<br><br>I'm a Digital & Technology Solutions Degree Apprenticeship (Software Egineering).<br><br>I enjoy building real-world applications, exploring full-stack development, and learning how technology can solve practical problems. <br>From creating IoT dashboards to designing productivity tools, I like working on projects that are both useful and user-focused.<br><br>💻 Currently learning: Node.js, MongoDB, React, C# .NET  <br>🚀 Exploring: System design, DevOps, and AI integration  <br>📚 Projects: Check out my pinned repos!<br>
+### 👋 Hello, I'm Godswill Erhunmwunse<br><br>🎓 I'm currently studying Digital & Technology Solutions Degree Apprenticeship<br> (Software Egineering).<br><br>I enjoy building real-world applications, exploring full-stack development, and learning how technology can solve practical problems. <br>From creating IoT dashboards to designing productivity tools, I like working on projects that are both useful and user-focused.<br><br>💻 Currently learning: Express, MongoDB, React, C# .NET  <br>🚀 Exploring: System design, DevOps, and AI integration  <br>📚 Projects: Check out my pinned repos!<br>
 
 
 ## 🌐 Socials:
